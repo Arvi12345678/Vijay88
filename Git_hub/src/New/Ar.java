@@ -6,5 +6,10 @@ public class Ar {
 	{
 		System.out.println("Archana");
 	}
+	public void m1()
+	{
+	System.out.println("Hello this is m1")
+	
+	}
 
 }
