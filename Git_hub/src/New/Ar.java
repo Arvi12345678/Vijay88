@@ -18,10 +18,5 @@ public class Ar {
 	
 	}
 	
-	public void m3()
-	{
-	System.out.println("Hello this is m3");
-	
-	}
 
 }
