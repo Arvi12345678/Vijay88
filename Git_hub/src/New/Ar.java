@@ -17,5 +17,11 @@ public class Ar {
 	System.out.println("Hello this is m2");
 	
 	}
+	
+	public void m3()
+	{
+	System.out.println("Hello this is m3");
+	
+	}
 
 }
